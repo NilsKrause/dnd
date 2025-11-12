@@ -1,0 +1,6 @@
+.idea/
+kanka/
+.env
+*.db
+dndbot
+de.nilskrau.dndbot
